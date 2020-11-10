@@ -74,10 +74,20 @@
 
 
 <div class = "move"><h3 class = "title">General Inquiries</h3>
-<p class = "class1"> If you have any general inquiries, please fill out the following form with your full name, phone number, email, and message details (full name, email Or phone #, and message are mandatory). </p></div>
+<p class = "class1"> If you have any inquiries, please fill out the following form with your full name, phone number, email, and message details (full name, email Or phone #, and message are mandatory). </p></div>
 <!-- Contact message -->
 
-
+	
+<input type="text" id="myText" value="Some text...">
+<p>Click the "Try it" button to get the text in the text field.</p>
+<button onclick="myFunction()">Try it</button>
+<p id="demo"></p>
+<script>
+function myFunction() {
+  var x = document.getElementById("myText").value;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
 
 
 
