@@ -8,7 +8,6 @@ body {
   font-family: "Cambria Math",sans-serif;
   border-style: solid;
   background-image: url("back.jpg");
-  color: darkblue;
 }
 /* Aligns header to the center, adds dark blue text color, sets family font type as Cambria Math, sans-serif. Also adds a solid border with a teal background. Creates template header for each page in website. */
 
