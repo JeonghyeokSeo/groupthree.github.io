@@ -4,10 +4,10 @@ body {
 /* Sets the background color of each webpage to light blue. */
 
 .header {
+  background-image: url("back.jpg");
   text-align: center;
   font-family: "Cambria Math",sans-serif;
   border-style: solid;
-  background-image: url("back.jpg");
 }
 /* Aligns header to the center, adds dark blue text color, sets family font type as Cambria Math, sans-serif. Also adds a solid border with a teal background. Creates template header for each page in website. */
 
