@@ -5,6 +5,8 @@ body {
 }
 /* Sets the background color of each webpage to light blue. */
 
+
+
 .header {
   background-image: url("back2.jpg");
   text-align: center;
@@ -15,6 +17,7 @@ body {
 .navbar {
   background-color: cadetblue;
   overflow: auto;
+  border: 1px blue;
 }
 /* Sets the background color of navbar to olivedrab with the overflow set to auto. This is applied to each page on the website. Set to auto on overflow to include a scroll bar when needed. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
