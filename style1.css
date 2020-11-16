@@ -231,47 +231,16 @@ body {
   margin-bottom: 50px;
 }
 
-
-
-
-.me {
-  margin-top: 75px;
-  margin-bottom: 100px;
-  margin-right: 550px;
+.image40 {
+  border: 1px solid;
+  margin-bottom: 50px;
 }
-/* Moves content right by 550px, 100px to bottom and 75px to the top. Done to align image correctly and appropriately. */
 
-.text1 {
-  color: maroon;
+
+.image41 {
+  border: 1px solid;
+  margin-bottom: 50px;
 }
-/* Sets the text color to maroon. */
-
-
-
-.fix2 {
-  text-align: left;
-  font-family: "Cambria Math",sans-serif;
-  color: darkblue;
-  text-decoration: underline
-}
-/* Sets the text color as dark blue, adds an underline and aligned to the left. Also sets font family type as Cambria Math, san-serif */
-
-
-.head5 { 
-  font-family: "Cambria Math",sans-serif;
-  color: darkblue;
-  text-decoration: underline
-}
-/* Adds font family set as Cambria Math, san serif and changes the header color to darkblue and adds an underline. */
-
-
-
-.goodbye { 
-  border: solid;
-  margin-left: 330px;
-  margin-top: 75px
-}
-/* Adds a solid border, moves content top 75px and moves left by margin of 330 px. Done to align image correctly and appropriately.*/
 
 
 
