@@ -362,23 +362,6 @@ body {
 }
 /* Adds a solid border, moves content top 75px and moves left by margin of 330 px. Done to align image correctly and appropriately.*/
 
-.finish {
-  border:solid;
-  margin-left: 800px;
-}
-/* Affects bottom link (return to homepage), moves it to right side and adds a solid border. */
 
-.move {
-  margin-top: 50px;
-}
-/* Moves content 50px top. Add appropriate spacing to separate content.  */
 
-.move1 {
-  margin-top: 75px;
-}
-/* Moves content 75px top. Add appropriate spacing to separate content. */
 
-.move2 {
-  margin-top: 30px;
-}
-/* Moves content 30px top. Add appropriate spacing to separate content. */
