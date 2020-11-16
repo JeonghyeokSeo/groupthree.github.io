@@ -35,12 +35,12 @@ body {
 
 
 .textcolor {
-  color: DarkSlateBlue;
+  color: DarkSlateGrey;
   font-family: Times New Roman;
 }
 
 .headcolor {
-  color: darkblue;
+  color: DarkSlateBlue;
   font-family: Times New Roman;
   text-decoration: underline;
   
