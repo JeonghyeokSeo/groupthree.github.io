@@ -23,6 +23,7 @@ body {
 }
 
 .searchmove {
+  border:solid;
   border-right: 100px;
 }
 
