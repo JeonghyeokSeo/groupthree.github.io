@@ -33,14 +33,6 @@ body {
 }
 /* Adds a lightgreen color to the hover portion, when hovering over each content on the navbar. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
-.title {
-  text-align: center;
-  font-family: "Cambria Math",sans-serif;
-  color: darkblue;
-  text-decoration: underline;
-}
-/* Aligns the text to the center, setting font family type to Cambria Math, sans-serif, sets color to dark blue and adds an underline. */
-
 
 .intro {
   text-align: left;
@@ -254,52 +246,7 @@ body {
 }
 /* Sets the text color to maroon. */
 
-.img1 {
-  float: right;
-  margin-top: -325px;
-  margin-right: 50px;
-  margin-left: 200px;
-  border: solid;
-}
-/* Floats the image to the right, adds a solid border, moves image content by margin of 200px to left,-325px top, and moves right by 50 px. Done to align image correctly and appropriately.*/
 
-.next {
-  margin-top: 25px;
-  margin-bottom: 100px;
-  margin-right: 50px;
-  margin-left: 700px;
-}
-/* Moves image content left by margin of 700px, right by 50px, top by 25px, 100px to the bottom margin. Done to align image correctly and appropriately. */
-
-.img2 {
-  float: left;
-  margin-top: -325px;
-  margin-right: 100px;
-  margin-left: 50px;
-  border: solid;
-}
-/* Adds a solid border, moves image content left by margin of 50px, image is floated to left side, top margin of -325px and right by 100 px. Done to align image correctly and appropriately. */
-
-.nine {
-  margin-right: 100px;
-  margin-left: 300px;
-  border: solid;
-}
-/* Adds a solid border, moves image content left by margin of 300px and moves right by 100 px. Done to align image correctly and appropriately. */
-
-.ten{
-  color: black;
-  float: right;
-  border:solid;
-  margin-top: 50px;
-}
-/* For each bottom link on each webpage, the border is black and solid, margin is set by 50px top, and is floated to the right.  */
-
-.class1 {
-  font-family: "Cambria Math",sans-serif;
-  color: maroon;
-}
-/* Sets the font family type to Cambria Math, san-serif while also setting the text color to maroon */
 
 .fix2 {
   text-align: left;
@@ -309,38 +256,6 @@ body {
 }
 /* Sets the text color as dark blue, adds an underline and aligned to the left. Also sets font family type as Cambria Math, san-serif */
 
-.img5 {
-  margin-left: 370px;
-  margin-top: 50px;
-  border: solid black;
-}
-/* Adds a solid border, moves image content left by margin of 370px and moves top by 50 px. Done to align image correctly and appropriately. */
-
-.img9 {
-  margin-right: 50px;
-  margin-left: 200px;
-  border: solid;
-}
-/* Adds a solid border, moves image content left by margin of 200px and moves right by 50 px. Done to align image correctly and appropriately. */
-
-.img10 {
-  margin-right: 120px;
-  margin-left: 50px;
-  border: solid;
-}
-/* Adds a solid border, moves image content left by margin of 50px and moves right by 120 px. Done to align image correctly and appropriately. */
-
-.img12 {
-  margin-right: 100px;
-  margin-left: 100px;
-  border: solid;
-}
-/* Adds a solid border, moves image content to right margin by 100 px and to left by 100 px. Done to align image correctly and appropriately. */
-
-.img13 {
-  border: solid;
-}
-/* Adds a solid border to image. */
 
 .head5 { 
   font-family: "Cambria Math",sans-serif;
@@ -349,11 +264,7 @@ body {
 }
 /* Adds font family set as Cambria Math, san serif and changes the header color to darkblue and adds an underline. */
 
-.img20 { 
-  border: solid;
-  margin-left: 330px;
-}
-/* Adds a solid border, moves content to left by margin of 330 px. Done to align image correctly and appropriately. */
+
 
 .goodbye { 
   border: solid;
