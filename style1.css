@@ -21,6 +21,7 @@ body {
 .gcse-search {
   float: right;
   border: 1px black;
+  margin-right: 150px;
 }
 
 .nav {
