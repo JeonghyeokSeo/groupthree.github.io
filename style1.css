@@ -34,12 +34,10 @@ body {
 /* Adds a lightgreen color to the hover portion, when hovering over each content on the navbar. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
 
-.intro {
-  text-align: left;
-  font-family: "Cambria Math",sans-serif;
-  color: maroon;
+.textcolor {
+  color: darkblue;
+  font-family: Lucida Console;
 }
-/* Aligns the text to the left, setting font family type to Cambria Math, sans-serif and sets text-color to maroon.  */
 
 .image1 {
   border: 1px solid;
@@ -242,9 +240,4 @@ body {
   margin-bottom: 50px;
 }
 
-
-.textcolor {
-  color: darkblue;
-  font-family: Lucida Console;
-}
 
