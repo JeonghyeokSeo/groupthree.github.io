@@ -18,7 +18,9 @@ body {
 }
 /* Sets the background color of navbar to olivedrab with the overflow set to auto. This is applied to each page on the website. Set to auto on overflow to include a scroll bar when needed. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
-.gcse-search {
+.searchbar {
+  border: 1px black;
+  margin-right: 50px;
   float: right;
 }
 
