@@ -243,5 +243,8 @@ body {
 }
 
 
-
+.textcolor {
+  color: darkblue;
+  font-family: Lucida Console;
+}
 
