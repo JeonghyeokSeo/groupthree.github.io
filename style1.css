@@ -29,14 +29,10 @@ body {
 
 .message {
   border: 1px solid;
-  margin-left: 350px;
-  margin-bottom: 200px;
 }
 
 .contact {
   border: 1px solid;
-  margin-right: 200px;
-  margin-bottom: 100px;
 }
 
 .nav {
