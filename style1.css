@@ -29,11 +29,13 @@ body {
 
 .message {
   border: 1px solid;
+  padding:;
 }
 
 .contact {
   border: 1px solid;
-  text-align: center
+  text-align: center;
+  padding: ;
 }
 
 .nav {
