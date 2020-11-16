@@ -52,6 +52,7 @@ body {
 .image1 {
   border: solid;
   margin-bottom: 50px;
+  overflow: auto;
 }
 
 .image2 {
