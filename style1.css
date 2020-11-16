@@ -20,7 +20,7 @@ body {
 
 .gcse-search {
   float: right;
-  border: 1px black;
+  border: solid;
   margin-right: 150px;
 }
 
