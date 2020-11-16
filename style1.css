@@ -13,7 +13,7 @@ body {
 /* Aligns header to the center, adds dark blue text color, sets family font type as Cambria Math, sans-serif. Also adds a solid border with a teal background. Creates template header for each page in website. */
 
 .navbar {
-  background-color: royalblue;
+  background-color: darkslateblue;
   overflow: auto;
 }
 /* Sets the background color of navbar to olivedrab with the overflow set to auto. This is applied to each page on the website. Set to auto on overflow to include a scroll bar when needed. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
