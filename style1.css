@@ -17,14 +17,14 @@ body {
   overflow: auto;
 }
 /* Sets the background color of navbar to olivedrab with the overflow set to auto. This is applied to each page on the website. Set to auto on overflow to include a scroll bar when needed. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
- 
 
 .nav {
   display: inline;
   color: white;
   font-family: "Cambria Math",sans-serif;
   text-align: left;
-  padding: 10px 41px;
+  padding: 5px 10px;
+  border: 1px;
 }
 /* Aligns the text to the left, sets the font-family to Cambria math, sans-serif. Sets the text color to white, displayed inline and with added padding of 10px and 41 px. Navbar style influenced/referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
