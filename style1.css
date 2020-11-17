@@ -5,9 +5,19 @@ body {
 }
 /* Sets the background color of each webpage to light blue. */
 
+.entireheader {
+  position: static;
+  z-index: 1;
+}
+
 .search {
   border: 1px solid;
+  margin-top: 100px;
+  position: static;
+  z-index: 3;
 }
+
+
 
 .header {
   background-image: url("back2.jpg");
