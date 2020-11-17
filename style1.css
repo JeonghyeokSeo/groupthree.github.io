@@ -19,6 +19,7 @@ body {
 }
 
 .work {
+  margin-right; 200px;
   position: static;
   z-index: 3;
 }
