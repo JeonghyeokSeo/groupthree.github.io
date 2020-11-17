@@ -5,6 +5,9 @@ body {
 }
 /* Sets the background color of each webpage to light blue. */
 
+.gcse-search {
+  border: 1px solid;
+}
 
 .header {
   background-image: url("back2.jpg");
@@ -16,7 +19,7 @@ body {
 .navbar {
   background-color: cadetblue;
   overflow: auto;
-  border-style: 1px solid;
+  border: 1px solid;
 }
 /* Sets the background color of navbar to olivedrab with the overflow set to auto. This is applied to each page on the website. Set to auto on overflow to include a scroll bar when needed. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
@@ -35,10 +38,6 @@ body {
   background-color: lightblue;
 }
 /* Adds a lightgreen color to the hover portion, when hovering over each content on the navbar. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
-
-.gcse-search {
-  border: 1px solid;
-}
 
 
 .textcolor {
