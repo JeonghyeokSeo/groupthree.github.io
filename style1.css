@@ -23,8 +23,7 @@ body {
 
 .searchbar {
   border: 1px solid;
-  margin-left: 1050px;
-  margin-bottom: 100px;
+  margin-bottom: -100px;
 }
 
 .message {
