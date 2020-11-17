@@ -19,6 +19,9 @@ body {
 }
 
 
+.smallmove{
+  margin-top: 100px;
+}
 
 .header {
   background-image: url("back2.jpg");
