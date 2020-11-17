@@ -16,7 +16,7 @@ body {
 .navbar {
   background-color: cadetblue;
   overflow: auto;
-  border: 1px solid;
+  border-style: 1px solid;
 }
 /* Sets the background color of navbar to olivedrab with the overflow set to auto. This is applied to each page on the website. Set to auto on overflow to include a scroll bar when needed. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
