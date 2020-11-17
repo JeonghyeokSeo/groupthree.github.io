@@ -36,6 +36,10 @@ body {
 }
 /* Adds a lightgreen color to the hover portion, when hovering over each content on the navbar. Navbar style referenced & modified from w3schools: https://www.w3schools.com/howto/howto_js_topnav.asp */
 
+.gcse-search {
+  border: 1px solid;
+}
+
 
 .textcolor {
   color: #003333;
