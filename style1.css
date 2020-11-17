@@ -18,6 +18,12 @@ body {
   z-index: 3;
 }
 
+.headerimage {
+  margin-top: 150px;
+  position: static;
+  z-index: 4;
+}
+
 
 .smallmove{
   margin-top: 100px;
