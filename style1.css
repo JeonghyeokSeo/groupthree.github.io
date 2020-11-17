@@ -16,6 +16,7 @@ body {
 .gcse-search {
   border: 1px solid;
   margin-right: 300px;
+  border-color: blue;
 }
 
 .navbar {
