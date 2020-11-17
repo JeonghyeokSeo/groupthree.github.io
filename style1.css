@@ -12,7 +12,6 @@ body {
   text-align: center;
   border: 1px solid;
   position: fixed;
-  z-index: 1;
 }
 /* Aligns header to the center, adds dark blue text color, sets family font type as Cambria Math, sans-serif. Also adds a solid border with a teal background. Creates template header for each page in website. */
 
@@ -26,8 +25,6 @@ body {
 .searchbar {
   border: 1px solid;
   margin-right: 1100px;
-  position: fixed;
-  z-index: 2;
 }
 
 
