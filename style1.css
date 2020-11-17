@@ -19,7 +19,7 @@ body {
 }
 
 .headerimage {
-  margin-bottom: 150px;
+  margin-top: -150px;
   position: static;
   z-index: 4;
 }
