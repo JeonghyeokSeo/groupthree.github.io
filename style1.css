@@ -24,6 +24,7 @@ body {
 .searchbar {
   border: 1px solid;
   margin-right: 1100px;
+  position: fixed;
 }
 
 
