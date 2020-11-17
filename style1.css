@@ -28,13 +28,12 @@ body {
 
 .message {
   border: 1px solid;
-  padding: 50px 50px 50px 50px;
 }
 
 .contact {
   border: 1px solid;
   text-align: center;
-  padding: 50px 50px 50px 50px; ;
+  padding: 50px 50px; 
 }
 
 .nav {
